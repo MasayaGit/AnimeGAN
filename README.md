@@ -1,7 +1,7 @@
 # AnimeGAN
 SRResNetとDRAGANを用いてアニメ画像の生成
 
-![img](https://github.com/MasayaGit/AnimeGAN/img/DRAGAN.png)
+![img](https://github.com/MasayaGit/AnimeGAN/blob/master/img/DRAGAN.png)
 
 
 # Reference
